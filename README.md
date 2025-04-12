@@ -1,6 +1,7 @@
 # PE-PROJECT
 
 ## 🧠 About the App
+THIS APP IS A STORY GENERATOR 
 This web app uses OpenRouter's API to generate smart responses based on user prompts. Built with Node.js and vanilla JavaScript.
 
 ## 📦 Technologies Used
